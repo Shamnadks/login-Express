@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Open+Sans&display=swap');
+body{
+font-family: 'Open Sans', sans-serif;
+background-image: url('/assets/1900932.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+}
+.center-div{
+    padding-top:10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+form{
+    padding: 0.3em;
+}
+#login.title>span{
+    font-size:.8em;
+}
+#small{
+    text-align: left;
+}
+.logoutbutton{
+    background-color:rgb(240, 236, 13);
+}
